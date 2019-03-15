@@ -11,3 +11,17 @@ Description: Make your cydia homepage usefull again fill it with live updated ja
 Name: Libellus
 Author: KushyDaBush
 Depiction: https://mintiii.github.io/repo/depictions/?p=com.kushy.libellus
+
+Package: cydia.kiiimo.org.shortlook_1.0.4k1_iphoneos-arm
+Version: 1.0.4k1
+Section: Tweaks
+Maintainer: Minti
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/cydia.kiiimo.org.shortlook_1.0.4k1_iphoneos-arm.deb
+Size: 2494286
+MD5sum: a80bee7158045e7da376635dfb29519b
+Description: Notifications At A Glance
+Name: Minti
+Author: Minti
+Depiction: https://mintiii.github.io/repo/depictions/?p=cydia.kiiimo.org.shortlook_1.0.4k1_iphoneos-arm
